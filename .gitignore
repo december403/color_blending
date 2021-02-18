@@ -1,0 +1,7 @@
+*.png
+*.gif
+image
+temp
+report
+.vscode
+__pycache__
